@@ -39,5 +39,5 @@ The data for this project is sourced from the Xente Challenge on Kaggle. The dat
 - **data/**: Contains raw and processed data files.
 - **.github/**: Contains CI/CD configurations.
 - **notebook/**: Contains the prediction, preprocessing, and analysis model.
-- **scripts/**: Contains the main script to run and visualize.
+- **scripts/**: Contains the main script to run and visualize..
 
